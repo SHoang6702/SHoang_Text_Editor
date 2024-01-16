@@ -1,22 +1,23 @@
 # SHoang_Text_Editor
-Placeholder readme!
-![Render]()
+A basic text editor that works online and offline and can be installed to your computer
+![Render](./assets/images/installed.png)
 ## Installation
-
+Click the install button on the website
 
 ## Usage
 
-Github Repository
+Github Repository:
+https://github.com/SHoang6702/SHoang_Text_Editor
 
-
-Youtube Link
-
+Deployed Link:
+https://just-another-text-editor-dmjs.onrender.com/
 
 ## Credits
 Collaborators:
 Sebastian Hoang
 
 ## Features
+The ability to be installed
 
 ## License
 None
