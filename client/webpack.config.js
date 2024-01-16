@@ -7,7 +7,7 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 // Add CSS loaders and babel to webpack.
 module.exports = () => {
   return {
-    mode: 'development',
+    mode: 'production',
     entry: {
       main: './src/js/index.js',
       install: './src/js/install.js'
