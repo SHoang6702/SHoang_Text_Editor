@@ -3,8 +3,10 @@ The Just Another Text Editor (JATE) was designed to be used both online and offl
 
 Below is an example of the installed version of the application
 ![Render](./assets/images/installed.png)
+
 ## Note
 Loading of page is extremely slow due to free version of render
+
 ## Installation
 Click the install button on the website
 
@@ -17,8 +19,19 @@ Deployed Link:
 https://just-another-text-editor-dmjs.onrender.com/
 
 ## Credits
-Collaborators:
-Sebastian Hoang
+Sebastian Hoang: https://github.com/SHoang6702
+
+Special thanks to:
+### Resources
+- https://www.w3schools.com/
+- https://stackoverflow.com/
+- https://developer.mozilla.org/en-US/
+- https://www.youtube.com/
+### Friends
+- Cody Thompson: https://github.com/codyleight
+- Bijan Olfati: https://github.com/bolfati
+- Arthur Bridges: https://github.com/Arthur-Bridges
+- Jason Mason: https://github.com/Jaysahhn
 
 ## Features
 The ability to be installed
